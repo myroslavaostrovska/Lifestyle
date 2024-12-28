@@ -1,5 +1,11 @@
 .header {
     &_container {
+
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 432px;
+
         &--list {
             
         }
